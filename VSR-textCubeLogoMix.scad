@@ -1,7 +1,7 @@
 // Simple logo experiments for Virtual Space and Global Communications Research
 
 //filename="VSR-Hershey.svg";
-logoFilename="VSR-SANS-B.svg";
+logoFilename="VSR-TextSANS-B.svg";
 logoDepth=1;
 logoDPI=96;
 logoColor="#00e";
